@@ -1,3 +1,3 @@
 ---
-permalink: /index.ejs
+permalink: /views/index.ejs
 ---
