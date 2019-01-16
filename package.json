@@ -1,7 +1,7 @@
 {
   "name": "calumv2",
   "version": "0.0.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "start": "nodemon --exec babel-node --presets=es2015 -- bin/www",
     "babel-node": "babel-node --presets=/*a*/ --ignore='foo|bar|baz'"
